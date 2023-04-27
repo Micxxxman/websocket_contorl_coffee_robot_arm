@@ -9,6 +9,7 @@ websocket. it is very sample only send a IO signal by the ubuntu IOPG, to enhanc
 
 
 (https://drive.google.com/file/d/1O3nePgU_bynqzmXexy_Jd7WRrBJoWmxM/view?usp=sharing)
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
 
 
 

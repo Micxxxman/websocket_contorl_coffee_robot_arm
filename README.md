@@ -8,13 +8,7 @@ websocket. it is very sample only send a IO signal by the ubuntu IOPG, to enhanc
 ![image](https://user-images.githubusercontent.com/82942566/234899587-78933add-9c92-4a4e-b418-c0531778764c.png)
 
 
-(https://drive.google.com/file/d/1O3nePgU_bynqzmXexy_Jd7WRrBJoWmxM/view?usp=sharing)
+
 [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/1ozStpUTh9c)
-
-[![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=ek1j272iAmc)
-
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
-
-[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")
 
 

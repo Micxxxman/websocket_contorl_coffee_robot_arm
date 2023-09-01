@@ -3,7 +3,7 @@
 
 Control the coffee robot arm work. Robot arm will get the order from the 
 Websocket. it is very sample only send a IO signal by the ubuntu IOPG, to enhance the selling point we setup a website for customer to orde.
-The ubunt GPIO control will call by the c++ programm.
+The ubunt GPIO control will call by the c++ program.
 
 
 

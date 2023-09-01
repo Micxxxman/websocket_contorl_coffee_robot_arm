@@ -1,9 +1,7 @@
 # Websocket control coffee robotic arm
 
 
-Control the coffee robot arm work. Robot arm will get the order from the 
-Websocket. it is very sample only send a IO signal by the ubuntu IOPG, to enhance the selling point we setup a website for customer to orde.
-The ubunt GPIO control will call by the c++ program.
+Control the coffee robot arm working. Robot arm will get the order singal from the WebSocket. it is very sample only send a IO signal by the ubuntu IOPG, to enhance the selling point we setup a website for customer to order. The ubuntu GPIO control will call by the c++ program.
 
 
 

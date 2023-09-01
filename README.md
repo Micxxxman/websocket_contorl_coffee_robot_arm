@@ -1,4 +1,4 @@
-# websocket_contorl_coffee_robot_arm
+# websocket_control_coffee_robot_arm
 
 
 Control the coffee robot arm work. Robot arm will get the order from the 
